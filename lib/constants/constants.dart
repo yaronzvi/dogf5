@@ -75,6 +75,13 @@ const kPersonAddressCollection = 'person_address';
 //floor
 //zip_code
 
+const kNewsList = 'newslist';
+//author
+//datetime
+//contents
+//show
+//line
+
 class Constants {
   // TODO: Replace this with your firebase project URL
   static const String firebaseProjectURL =
