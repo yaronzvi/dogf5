@@ -7,6 +7,7 @@ import 'package:dogf5/screens/owner_screen.dart';
 import 'package:dogf5/screens/dog_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 // import 'package:dogf5/screens/loading.dart';
+// by yaron zvi 12/4/2021
 
 void main() async {
   // Ensure that Firebase is initialized
