@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519805556239",
+    "project_id": "dogf-301310",
+    "storage_bucket": "dogf-301310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519805556239:android:4741681ad28bc1fcf5357a",
+        "android_client_info": {
+          "package_name": "com.orzsv4.dog_find"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519805556239-j8frhq0qdc1l2g3kq61a7vhsakvii77t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi9-ZD18LUoMO3g7v-_cWdqMHjUsv3J5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519805556239-j8frhq0qdc1l2g3kq61a7vhsakvii77t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
